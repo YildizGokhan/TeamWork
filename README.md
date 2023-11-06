@@ -1,4 +1,4 @@
-<p>Clarusway<img align="right"
+<p>GY<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 ## Code Challenge -002 : News (HC-02)
